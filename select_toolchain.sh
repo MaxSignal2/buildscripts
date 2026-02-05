@@ -65,8 +65,8 @@ case "$VERSION" in
     toolchain=DEVKITA64
   ;;
   "4" )
-    GCC_VER=9.1.0
-    BINUTILS_VER=2.32
+    GCC_VER=13.2.0
+    BINUTILS_VER=2.41
     NEWLIB_VER=1.20.0
     GDB_VER=8.2.1
     basedir='dksh4'
